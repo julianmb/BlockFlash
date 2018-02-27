@@ -1,0 +1,8 @@
+/Users/CEO/Projects/BlockFlash/BlockFlash/bin/Release/BlockFlash.exe
+/Users/CEO/Projects/BlockFlash/BlockFlash/bin/Release/ExmoAPI.dll
+/Users/CEO/Projects/BlockFlash/BlockFlash/bin/Release/Newtonsoft.Json.dll
+/Users/CEO/Projects/BlockFlash/BlockFlash/bin/Release/ExmoAPI.pdb
+/Users/CEO/Projects/BlockFlash/BlockFlash/bin/Release/Newtonsoft.Json.xml
+/Users/CEO/Projects/BlockFlash/BlockFlash/obj/x86/Release/BlockFlash.csprojResolveAssemblyReference.cache
+/Users/CEO/Projects/BlockFlash/BlockFlash/obj/x86/Release/BlockFlash.csproj.CoreCompileInputs.cache
+/Users/CEO/Projects/BlockFlash/BlockFlash/obj/x86/Release/BlockFlash.exe

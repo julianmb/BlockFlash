@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockFlash", "BlockFlash\BlockFlash.csproj", "{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExmoAPI", "..\exmo-dev\exmo_api_lib.git\trunk\c#\ExmoAPI.csproj", "{A868170E-E9E0-4120-AF21-82341D07CD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}.Debug|x86.ActiveCfg = Debug|x86
+		{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}.Debug|x86.Build.0 = Debug|x86
+		{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}.Release|x86.ActiveCfg = Release|x86
+		{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}.Release|x86.Build.0 = Release|x86
+		{A868170E-E9E0-4120-AF21-82341D07CD5E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A868170E-E9E0-4120-AF21-82341D07CD5E}.Debug|x86.Build.0 = Debug|Any CPU
+		{A868170E-E9E0-4120-AF21-82341D07CD5E}.Release|x86.ActiveCfg = Release|Any CPU
+		{A868170E-E9E0-4120-AF21-82341D07CD5E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

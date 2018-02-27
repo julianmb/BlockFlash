@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A2BA6C66-C665-423D-B0FD-1D1F742A02C1}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.BlockFlash PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/CEO/VS2017/BlockFlash/BlockFlash/Program.cs" relfile="BlockFlash/Program.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../Gatecoin/api-gatecoin-dotnet.git/trunk/api-gatecoin-dotnet.csproj</String>
+  </DisabledProjects>
+</Properties>
